@@ -1,0 +1,13 @@
+<package>
+  <description brief="class loader library">
+  
+  </description>
+  <author>Behnam/behnam@tzi.de</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <depend package="base/cmake" />
+  <depend package="tools/class_loader" />
+  <depend package="external/fcl" />
+  <depend package="external/octomap" />
+</package>
