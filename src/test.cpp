@@ -7,8 +7,8 @@
 
 void simple_loading_example(int argc, char **argv)
 {
-    std::string LIBRARY_1="libPlugins1.so";
-    std::string LIBRARY_2="libPlugins2.so";
+    std::string LIBRARY_1="libplugin_animals.so";
+    std::string LIBRARY_2="libplugin_fantasy.so";
     try
     {
       class_loader::ClassLoader loader1(LIBRARY_1, false);

@@ -8,6 +8,5 @@
   <logo>http://</logo>
   <depend package="base/cmake" />
   <depend package="tools/class_loader" />
-  <depend package="external/fcl" />
-  <depend package="external/octomap" />
+  <depend package="slam/octomap" />
 </package>
