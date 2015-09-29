@@ -3,6 +3,7 @@
 #include <iostream>
 #include <class_loader/class_loader.h>
 #include "base.h"
+#include <envire_core/Item.hpp>
 #include <envire_core/Environment.hpp>
 
 
