@@ -4,7 +4,7 @@
 class Base
 {
   public:
-    virtual void saySomething() = 0;
+    virtual void saySomething() {}
 };
 
 #endif

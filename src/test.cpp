@@ -3,8 +3,8 @@
 #include <iostream>
 #include <class_loader/class_loader.h>
 #include "base.h"
-#include <envire_core/Item.hpp>
-#include <envire_core/Environment.hpp>
+#include <envire_core/items/Item.hpp>
+#include <envire_core/items/Environment.hpp>
 
 
 void simple_loading_example(int argc, char **argv)
